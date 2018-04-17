@@ -10,15 +10,15 @@ N'oubliez pas de configurer votre config.json avec vos tokens.
 https://github.com/sparklemotion/nokogiri
 https://github.com/gimite/google-drive-ruby
 
-J'ai un Gemfile. Une fois le projet DL, il faut faire : 
+J'ai un Gemfile. Une fois le projet DL, il faut faire :
 ```
 bundle install
 ```
-une fois le dossier DL sur votre PC. 
+une fois le dossier DL sur votre PC.
 
 ## Pré-requis
 
-Projet libre de droit et d'accès à la lecture/écriture. 
+Projet libre de droit et d'accès à la lecture/écriture.
 Pour pouvoir visualiser le projet, un simple navigateur suffit.
 
 
@@ -36,8 +36,8 @@ Firefox, Safari, Chrome, Internet Explorer 8, ...
 ## Contributors
 
 * Quentin : https://github.com/QUB-SPG
-
+* Morgane : https://github.com/Morganetoriupper
 ## Mon Slack
 
 * Quentin : @Quentin
-
+* Morgane : @morgane 
